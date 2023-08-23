@@ -1,4 +1,7 @@
 # Meghan Myles' Home Page
-Hi, my name is Meghan! I'm a Master's student studying Data Science at the University of Connecticut. My background is in Ecology and Evolutionary Biology, as well as Applied Mathematics. I'm interested in all things genomics and all things leafy and green!
-![Hemlock tree image]([https://www.google.com/search?q=hemlock%20tree&tbm=isch&tbs=il:cl&hl=en&sa=X&ved=0CAAQ1vwEahcKEwio9ojZgPOAAxUAAAAAHQAAAAAQAg&biw=1440&bih=783#imgrc=DWBKVoQM-fw7xM](https://p0.pxfuel.com/preview/668/584/1001/tree-branch-nature-outdoors.jpg))
-![DNA image]([https://www.google.com/search?q=dna&tbm=isch&hl=en&tbs=il:cl&sa=X&ved=0CAAQ1vwEahcKEwiopcb3gPOAAxUAAAAAHQAAAAAQAg&biw=1440&bih=783#imgrc=cv-jD3dZDoOpKM](https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original-1756x742.jpeg)https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original-1756x742.jpeg)
+Hi, my name is Meghan! I'm currently studying Data Science at the University of Connecticut. My background is in Ecology and Evolutionary Biology, as well as Applied Mathematics. I'm interested in all things genomics and all things leafy and green!
+
+<p float="left">
+  <img src="https://p0.pxfuel.com/preview/668/584/1001/tree-branch-nature-outdoors.jpg" width="49%" height="300"/>
+  <img src="https://www.publicdomainpictures.net/pictures/450000/velka/dna-biology-science-dna-helix.jpg" width="49%" height="300" />
+</p>
